@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.1.0
+title: Spacewalks
+message: >-
+  Sample for the "Building Better Research Software"
+  workshop
+type: dataset
+authors:
+
+  - given-names: Aman
+    family-names: Goel
+    orcid: 'https://orcid.org/0000-0003-3567-2096'
+abstract: >-
+  A  course on tools and practices for developing and
+  collaborating on open, sustainable and FAIR (Findable,
+  Accessible, Interoperable and Reusable) research software.
+keywords:
+  - research software
+  - good practices
+  - FAIR
+license: CC-BY-4.0
