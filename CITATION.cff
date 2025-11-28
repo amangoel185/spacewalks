@@ -17,8 +17,6 @@ abstract: >-
   collaborating on open, sustainable and FAIR (Findable,
   Accessible, Interoperable and Reusable) research software.
 keywords:
-  - FAIR
   - research software
   - good practices
-  - Carpentries Incubator
 license: CC-BY-4.0
